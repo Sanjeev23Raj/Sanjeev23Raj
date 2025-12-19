@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Raj G</h1>
 <h3 align="center">A passionate AIML and Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://github.com/profile/?username=sanjeev23raj&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeev23raj" /> </p>
+<p align="left"> <img src="https://pixelz.cc/wp-content/uploads/2024/03/spider-man-into-the-spider-verse-miles-morales-uhd-4k-wallpaper.jpg" alt="Sanjeev23Raj" /> </p>
 
 - 🔭 I’m currently working on **a Freelancing Project of a client**
 
