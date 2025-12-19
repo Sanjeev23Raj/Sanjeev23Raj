@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeev23raj&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeev23raj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanjeev2Raj" alt="Sanjeev23Raj" /></a> </p>
+<p align="left"> <a href="https://github.com/Sanjeev23Raj"><img src="https://github-profile-trophy.vercel.app/?username=Sanjeev2Raj" alt="Sanjeev23Raj" /></a> </p>
 
 - 🔭 I’m currently working on **a Freelancing Project of a client**
 
