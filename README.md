@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a Freelancing Project of a client**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Cloud Computing & CyberSecurity**
 
 - 👯 I’m looking to collaborate on **AI/ML and Data Science Project**
 
