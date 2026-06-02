@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **a Freelancing Project of a client**
 
+-   Working as an intern in Cryo Scientific Systems**
+
 - 🌱 I’m currently learning **Cloud Computing & CyberSecurity**
 
 - 👯 I’m looking to collaborate on **AI/ML and Data Science Project**
