@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a Freelancing Project of a client**
 
--   Working as an intern in Cryo Scientific Systems**
+-   Working as an intern in Cryo Scientific Systems
 
 - 🌱 I’m currently learning **Cloud Computing & CyberSecurity**
 
