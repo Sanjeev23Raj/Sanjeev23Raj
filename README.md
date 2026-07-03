@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **AIML**
 
-- 👨‍💻 All of my projects are available at [https://sanjeevraj23.netlify.app](https://sanjeevraj23.netlify.app)
+- 👨‍💻 All of my projects are available at [https://itsmesanju.netlify.app/](https://itsmesanju.netlify.app/)
 
 - 💬 Ask me about **AIML Enthusiast**
 
