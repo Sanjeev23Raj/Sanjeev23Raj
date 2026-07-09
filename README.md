@@ -4,11 +4,6 @@
 <p align="center">
   <img src="https://www.chromethemer.com/download/hd-wallpapers/spiderman-night-scene-1920x1080.jpg" alt="Spider-Man Banner" width="100%">
 </p>
-<p align="center">
-  <a href="https://github.com/Sanjeev23Raj">
-    <img src="https://brand.github.com/_next/static/media/logo-01.a1916c76.png" />
-  </a>
-</p>
 
 - 🔭 I’m currently working on **a Freelancing Project of a client**
 
