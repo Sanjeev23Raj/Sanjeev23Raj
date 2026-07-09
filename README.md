@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Raj G</h1>
 <h3 align="center">A passionate AIML and Full Stack Developer.</h3>
 
-<p align="left"> <img src="https://4kwallpapers.com/images/wallpapers/marvels-spider-man--11990.jpeg" alt="sanjeev23raj" /> </p>
-
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/Sanjeev23Raj/)"> <img src="https://github-profile-trophy.vercel.app/?username=sanjeev23raj" alt="sanjeev23raj"/> </p>
+<p align="center">
+  <img src="https://4kwallpapers.com/images/wallpapers/marvels-spider-man--11990.jpeg" alt="Spider-Man Banner" width="100%">
+</p>
+<p align="center">
+  <a href="https://github.com/Sanjeev23Raj">
+    <img src="https://github-profile-trophy.vercel.app/?username=sanjeev23raj&theme=tokyonight&no-frame=true&row=1&column=7" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **a Freelancing Project of a client**
 
