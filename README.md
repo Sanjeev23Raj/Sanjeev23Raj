@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AIML and Full Stack Developer.</h3>
 
 <p align="center">
-  <img src="https://4kwallpapers.com/images/wallpapers/marvels-spider-man--11990.jpeg" alt="Spider-Man Banner" width="100%">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQFgidQ1ATI2ulfNocG1J-b8XPuvDvv1SPF50nEwAoWkzEZ84vRiY9AJ4&s=10" alt="Spider-Man Banner" width="100%">
 </p>
 <p align="center">
   <a href="https://github.com/Sanjeev23Raj">
