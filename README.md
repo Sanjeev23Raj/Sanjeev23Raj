@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Sanjeev23Raj">
-    <img src="https://github-profile-trophy.vercel.app/?username=sanjeev23raj&theme=tokyonight&no-frame=true&row=1&column=7" />
+    <img src="https://brand.github.com/_next/static/media/logo-01.a1916c76.png" />
   </a>
 </p>
 
